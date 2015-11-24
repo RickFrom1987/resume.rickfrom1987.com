@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Rick Chen",
-    "label": "Front End Engineer ",
+    "label": "Front End Engineer / Startup Software Dude.",
     "picture": "",
     "email": "rick@rickfrom1987.com",
     "phone": "(425) 985 - 9755",
@@ -16,45 +16,39 @@
     },
     "profiles": [{
       "network": "LinkedIn",
-      "username": "RickFrom1987",
+      "username": "linkedin.com/in/RickFrom1987",
       "url": "https://www.linkedin.com/in/rickfrom1987"
     }, {
       "network": "Github",
-      "username": "RickFrom1987",
+      "username": "github.com/RickFrom1987",
       "url": "https://github.com/rickfrom1987"
     }]
   },
   "work": [{
-    "company": "Datablade(TechStars 2015)",
+    "company": "Datablade (TechStars 2015)",
     "position": "Contract Frontend Engineer / RickFrom1987",
     "website": "https://datablade.io",
-    "startDate": "2015-09-01",
-    "endDate": "2016-01-01",
-    "summary": "",
+    "summary": "Helped out an amazing TechStars team with getting out and MVP",
     "highlights": [
       "Part of four person team, got to experience going through TechStars program.",
       "Iterate very quickly in a fast paced environment",
       "Build and deploy fixes and features quickly for client requests",
       "Used alt.js and React to build components"
     ]
-  },  {
-    "company": "Energysaavy",
+  }, {
+    "company": "Energysaavy (2015)",
     "position": "Contract Frontend Engineer / RickFrom1987",
     "website": "https://energysavvy.com",
-    "startDate": "2015-06-01",
-    "endDate": "2015-11-01",
     "summary": "Developed UI prototypes with React",
     "highlights": [
       "First real world React.js experience",
       "Wrapped complex financial and solar calculations around unit tests",
-      "demo url: http://energysavvy.s3-website-us-east-1.amazonaws.com/react-solar-calculator/dist/index.html"
+      "http://energysavvy.s3-website-us-east-1.amazonaws.com/react-solar-calculator/dist/index.html"
     ]
   }, {
-    "company": "Buuteeq (acquired by booking.com)",
+    "company": "Buuteeq (2015 - 2016)",
     "position": "Contract Frontend Engineer / RickFrom1987",
     "website": "https://suite.booking.com",
-    "startDate": "2014-08-01",
-    "endDate": "2016-01-01",
     "summary": "Lead Developer for JS customization system.",
     "highlights": [
       "Developed custom javascript system to play nicely with internal CMS",
@@ -62,35 +56,31 @@
       "Got to work with node.js, CoffeeScript, Gulp and Google App Engine"
     ]
   }, {
-    "company": "Moment Lens",
+    "company": "Moment Lens (2015 - 2016)",
     "position": "Contract Web Developer / RickFrom1987",
     "website": "https://momentlens.co",
-    "startDate": "2014-10-01",
-    "endDate": "2015-10-01",
     "summary": "Managed momentlens web products, including website, e-commerce store and infrastructure.",
     "highlights": [
       "Setup version control for web properties for client",
       "Setup monitoring and helped with project management",
       "Python scripts to help with accounting and reporting",
-      "Wordpress theme/plugin management and development"
+      "Wordpress theme/plugin management and development",
+      "Helped launch Moment Case",
+      "https://www.kickstarter.com/projects/584288471/moment-case-worlds-best-iphone-case-for-mobile-pho"
     ]
   }, {
-    "company": "Haiku Deck",
+    "company": "Haiku Deck (2013 - 2015)",
     "position": "Front End Engineer",
     "website": "https://haikudeck.com",
-    "startDate": "2013-10-01",
-    "endDate": "2014-10-01",
     "summary": "First frontend engineer at an early stage startup",
     "highlights": [
       "Started gaining experience with writing more docular code with unit tests with Mocha",
-      "Website and webapp development with Knockout.js, jQuery, stylus"
+      "Website and webapp development with node.js, knockout.js, jQuery"
     ]
   }, {
-    "company": "Yahoo!",
+    "company": "Yahoo! (2010 - 2012)",
     "position": "Front End Engineer",
     "website": "https://yahoo.com",
-    "startDate": "2010-10-01",
-    "endDate": "2012-10-01",
     "summary": "Software Developer",
     "highlights": [
       "First engineering job, worked on bugs and code that was deployed to millions of users.",
@@ -138,7 +128,9 @@
       "node.js",
       "npm",
       "knockout.js",
-      "mocha / sinon"
+      "mocha / sinon",
+      "promises",
+      "lint"
     ]
   }, {
     "name": "CSS",
@@ -165,10 +157,11 @@
     "level": "Intermediate",
     "keywords": [
       "git/github",
+      "gulp/grunt",
       "mercurial",
-      "gulp, grunt",
       "wordpress",
-      "circleci"
+      "circleci",
+      "optimizely"
     ]
   }, {
     "name": "Backend",
@@ -188,7 +181,8 @@
       "Trello",
       "Scrum and Agile Knowledge",
       "Jira",
-      "Slack"
+      "Slack",
+      "A/B Testing"
     ]
   }],
   "interests": [{
