@@ -91,11 +91,11 @@
     "website": "https://yahoo.com",
     "startDate": "2010-10-01",
     "endDate": "2012-10-01",
-    "summary": "",
+    "summary": "Software Developer",
     "highlights": [
       "First engineering job, worked on bugs and code that was deployed to millions of users.",
-      "Contributed to internal node projects when node.js was at 0.1"
-      "YUI3 and "
+      "Contributed to internal node projects when node.js was at 0.1",
+      "Worked with YUI3 and YUI Grids"
     ]
   }],
   "education": [{
