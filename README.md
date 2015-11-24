@@ -1,2 +1,7 @@
 # resume.rickfrom1987.com
-Resume
+
+sudo npm install -g resume-cli
+
+resume export resume.pdf
+
+resume export resume.html
