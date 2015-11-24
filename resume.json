@@ -27,10 +27,10 @@
   "work": [{
     "company": "Datablade (TechStars 2015)",
     "position": "Contract Frontend Engineer / RickFrom1987",
-    "website": "https://datablade.io",
+    "website": "http://datablade.io",
     "summary": "Helped out an amazing TechStars team with getting out and MVP",
     "highlights": [
-      "Part of four person team, got to experience going through TechStars program.",
+      "Experienced going through TechStars program",
       "Iterate very quickly in a fast paced environment",
       "Build and deploy fixes and features quickly for client requests",
       "Used alt.js and React to build components"
@@ -48,7 +48,7 @@
   }, {
     "company": "Buuteeq (2015 - 2016)",
     "position": "Contract Frontend Engineer / RickFrom1987",
-    "website": "https://suite.booking.com",
+    "website": "http://suite.booking.com",
     "summary": "Lead Developer for JS customization system.",
     "highlights": [
       "Developed custom javascript system to play nicely with internal CMS",
