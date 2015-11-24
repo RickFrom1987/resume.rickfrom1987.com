@@ -74,7 +74,7 @@
     "website": "https://haikudeck.com",
     "summary": "First front end engineer at an early stage startup",
     "highlights": [
-      "Started gaining experience with writing more docular code with unit tests with Mocha",
+      "Started gaining experience with writing more modular code with unit tests with Mocha",
       "Website and webapp development with node.js, knockout.js, jQuery"
     ]
   }, {
@@ -83,7 +83,7 @@
     "website": "https://yahoo.com",
     "summary": "First software gig!",
     "highlights": [
-      "First engineering job, worked on bugs and code that was deployed to millions of users.",
+      "Worked on bugs and code that was deployed to millions of users",
       "Contributed to internal node projects when node.js was at 0.1",
       "Worked with YUI3 and YUI Grids"
     ]
