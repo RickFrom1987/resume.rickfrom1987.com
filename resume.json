@@ -100,6 +100,11 @@
     ]
   }],
   "awards": [{
+    "title": "Developer In Residence",
+    "date": "2015-10-01",
+    "awarder": "General Assembly",
+    "summary": "I help students understand the basics of html, css and javascript."
+  }, {
     "title": "PC Mag Top 100 Websites of 2013",
     "date": "2013-10-01",
     "awarder": "PCMag",
