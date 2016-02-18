@@ -26,17 +26,6 @@
   },
   "work": [
   {
-    "company": "Brandly (2015)",
-    "position": "Contract Frontend Engineer / RickFrom1987",
-    "website": "http://brandly.com",
-    "summary": "Brandly needed some help getting their app ready for alpha and needed a UI facelift!",
-    "highlights": [
-      "Facelift an Angular JS app that needed some love.",
-      "Refactored older SCSS and HTML templates into smaller more manageable and testable chunks.",
-      "Unit tests in Jasmine.",
-      "Learned legacy code and made small defensive changes to make progress, but also not break anything."
-    ]
-  }, {
     "company": "Datablade (TechStars 2015)",
     "position": "Contract Frontend Engineer / RickFrom1987",
     "website": "http://datablade.io",
@@ -48,6 +37,17 @@
       "Used alt.js and React to build components"
     ]
   }, {
+    "company": "Brandly (2015)",
+    "position": "Contract Frontend Engineer / RickFrom1987",
+    "website": "http://brandly.com",
+    "summary": "Brandly needed some help getting their app ready for alpha and needed a UI facelift!",
+    "highlights": [
+      "Facelift an Angular JS app that needed some love.",
+      "Refactored older SCSS and HTML templates into smaller more manageable and testable chunks.",
+      "Unit tests in Jasmine.",
+      "Learned legacy code and made small defensive changes to make progress, but also not break anything."
+    ]
+  },  {
     "company": "Energysaavy (2015)",
     "position": "Contract Frontend Engineer / RickFrom1987",
     "website": "https://energysavvy.com",
