@@ -24,11 +24,23 @@
       "url": "https://github.com/rickfrom1987"
     }]
   },
-  "work": [{
+  "work": [
+  {
+    "company": "Brandly (2015)",
+    "position": "Contract Frontend Engineer / RickFrom1987",
+    "website": "http://brandly.com",
+    "summary": "Helped out an amazing TechStars team with getting out and MVP",
+    "highlights": [
+      "Facelift an Angular JS app that needed some love.",
+      "Refactored older SCSS and HTML templates into smaller more manageable and testable chunks.",
+      "Unit tests in Jasmine.",
+      "Learned legacy code and made samll defensive changes to make progress, but also not break anything."
+    ]
+  }, {
     "company": "Datablade (TechStars 2015)",
     "position": "Contract Frontend Engineer / RickFrom1987",
     "website": "http://datablade.io",
-    "summary": "Helped out an amazing TechStars team with getting out and MVP",
+    "summary": "Helped out an amazing TechStars team with getting out an MVP",
     "highlights": [
       "Experienced going through TechStars program",
       "Iterate very quickly in a fast paced environment",
