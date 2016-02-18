@@ -40,12 +40,12 @@
     "company": "Brandly (2015)",
     "position": "Contract Frontend Engineer / RickFrom1987",
     "website": "http://brandly.com",
-    "summary": "Brandly needed some help getting their app ready for alpha and needed a UI facelift!",
+    "summary": "Brandly needed some help getting their app ready for alpha and needed a UI love",
     "highlights": [
-      "Facelift an Angular JS app that needed some love.",
-      "Refactored older SCSS and HTML templates into smaller more manageable and testable chunks.",
-      "Unit tests in Jasmine.",
-      "Learned legacy code and made small defensive changes to make progress, but also not break anything."
+      "Facelift an existing angularJS app",
+      "Refactored older SCSS and HTML templates into smaller more manageable and testable chunks",
+      "Unit tests in Jasmine",
+      "Learned legacy code and made small defensive changes to make progress, but also not break anything"
     ]
   },  {
     "company": "Energysaavy (2015)",
@@ -54,7 +54,7 @@
     "summary": "Developed UI prototypes with React",
     "highlights": [
       "First real world React.js experience",
-      "Learned about React flow and flux pattern, the hard way.",
+      "Learned about React flow and flux pattern, the hard way",
       "Wrapped complex financial and solar calculations around unit tests",
       "http://energysavvy.s3-website-us-east-1.amazonaws.com/react-solar-calculator/dist/index.html"
     ]
